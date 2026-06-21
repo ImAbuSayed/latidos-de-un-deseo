@@ -1,6 +1,6 @@
 # License
 
-**Latidos de un deseo**
+**Latidos de un deseo, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos de un deseo, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Latidos de un deseo, Vol. 2** (latidos-de-un-deseo-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T11:20:00.662756 | `v1` | `378fd2cdc933d26fe392edb2537edfad0918905d34b6be1eb8409cc2801b4eae` | `07437d1222f017de39fdf18ffdc6dd2ba7bc35a2bc7cd610841f5d7ceb9dc958` | `2026-06-21_latidos-de-un-deseo-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
